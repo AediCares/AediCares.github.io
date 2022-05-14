@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## NDIS Support by Aedi
 
-You can use the [editor on GitHub](https://github.com/AediCares/AediCares.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Casual and Ongoing support, tailored to you needs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### OUr Services:
 
 ```markdown
-Syntax highlighted code block
+###Independence Support
 
-# Header 1
-## Header 2
-### Header 3
+Maintain your independence with aid and assistance in areas such as:
+- Transportation
+- Cleaning
+- Yardwork
+- General Household help
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+###Children and Teenagers
 
-**Bold** and _Italic_ and `Code` text
+Quality of life assistance for younger support recipients, including:
+- Transportation
+- assistance with schoolwork
+- assistance in social settings
 
-[Link](url) and ![Image](src)
+###Ongoing Support
+
+Support on a reocurring basis, with schedules to suit your needs. Be it weekly, monthly, or on any other schedule you require, we can provide assistance shaped around your life and events.
+
+###One-time Care
+
+Whether it's for a single event, or just to try us out, we can provide care to help you out.
+
+###Short Notice Support
+If you need support unexpectedly, we're here to help. Be it a sudden change of schedule, an ongoing support provider being unavailable, or anything else. We will endeavour to provide you with the help you need, when you need it, no matter how soon it's needed.
+*Additional Fees may be applicable to short notice support*
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AediCares/AediCares.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
